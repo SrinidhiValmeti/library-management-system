@@ -7,18 +7,11 @@ A web app for managing all the activities of a library like managing members and
 ## Index ✏️
 
 - [Library Management System 📚](#library-management-system-)
-  - [Video Demo](#video-demo)
 - [Index ✏️](#index-️)
 - [Features Of LCMS 🚀](#features-of-lcms-)
 - [Setup 🔥](#setup-)
   - [Frontend Setup 🍧](#frontend-setup-)
   - [Backend Setup 🍿](#backend-setup-)
-- [Technologies 🛠](#technologies-)
-- [Screenshots](#screenshots)
-- [References 💻](#references-)
-- [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
-- [License 🏆](#license-)
 
 ## Features Of LMS 🚀
 
@@ -29,13 +22,6 @@ A web app for managing all the activities of a library like managing members and
 - Issue and Return Transaction tracking of a Book by the Member
 - Reserving a book for specific dates
 - Showing the Achievements, Event Gallery
-
-## Setup 🔥
-
-- Fork the Repo
-
-- Clone the repo to your local machine
-  `git clone <repo-url>`
 
 ### Frontend Setup 🍧
 
