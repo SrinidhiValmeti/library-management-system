@@ -13,25 +13,25 @@ function Footer() {
                 <div className='footer-data'>
                     <div className="contact-details">
                         <h1>Contact Us</h1>
-                        <p>Librarian</p>
-                        <p>Government School</p>
-                        <p>Visakhapatnam-530041</p>
+                        <p>Librarian:Sireesha</p>
+                        <p>KL University</p>
+                        <p>Vaddeswaram-522502</p>
                         <p>Andhra Pradesh</p>
                         <p>India</p>
-                        <p><b>Email:</b>example@gmail.com</p>
+                        <p><b>Email:</b>grandalayam.lms@gmail.com</p>
                     </div>
                     <div className='usefull-links'>
                         <h1>Usefull Links</h1>
                         <a href='#home'>Link-1</a>
-                        <a href='#home'>Link-1</a>
-                        <a href='#home'>Link-1</a>
-                        <a href='#home'>Link-1</a>
+                        <a href='#home'>Link-2</a>
+                        <a href='#home'>Link-3</a>
+                        <a href='#home'>Link-4</a>
                     </div>
                     <div className='librarian-details'>
                         <h1>Librarian</h1>
-                        <p>Name</p>
+                        <p>Sireesha</p>
                         <p>Education</p>
-                        <p>Contact: +91 9123456787</p>
+                        <p>Contact: +91 923456780</p>
                     </div>
                 </div>
                 <div className="contact-social" >
@@ -42,7 +42,7 @@ function Footer() {
                 </div>
             </div>
             <div className='copyright-details'>
-                <p className='footer-copyright'>&#169; 2020 copyright all right reserved<br /><span>Designed with ❤️ by Pranavdhar Reddy</span></p>
+                <p className='footer-copyright'>&#169; 2024 copyright all right reserved<br /><span>Designed by Srinidhi Reddy</span></p>
             </div>
         </div>
     )
